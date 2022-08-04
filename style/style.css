@@ -329,7 +329,7 @@ ul {
 
 .front {
     margin-bottom: 75px;
-    position: relative;
+    position: sticky;
 }
 
 .front__svg {
@@ -440,7 +440,7 @@ ul {
 }
 .works {
     padding-bottom: 220px;
-    position: relative;
+    position: sticky;
 }
 .works__svg {
     position: absolute;
